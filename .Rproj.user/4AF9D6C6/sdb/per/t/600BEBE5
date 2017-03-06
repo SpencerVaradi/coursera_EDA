@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1488805007227.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "600BEBE5",
+    "lastKnownWriteTime" : 1488805013,
+    "last_content_update" : 1488805013571,
+    "path" : "C:/R/coursera_EDA/scripts/graphs.R",
+    "project_path" : "scripts/graphs.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

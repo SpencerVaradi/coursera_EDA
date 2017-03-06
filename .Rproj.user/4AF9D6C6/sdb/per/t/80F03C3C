@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1488804985286.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "80F03C3C",
+    "lastKnownWriteTime" : 1488804992,
+    "last_content_update" : 1488804992328,
+    "path" : "C:/R/coursera_EDA/scripts/config.R",
+    "project_path" : "scripts/config.R",
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
