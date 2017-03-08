@@ -15,4 +15,4 @@ for (col in numCols){
 
 
 # Will overwrite cleaned data file
-# saveRDS(utilData, "data/utilData.rds")
+saveRDS(utilData, "data/utilData.rds")
