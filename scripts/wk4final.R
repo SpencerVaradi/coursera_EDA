@@ -91,3 +91,6 @@ qplot(year, Emissions, data = a, col = city, geom = c("point", "line"),
 dev.off()
 
 # Baltimore City decrease in emissions is more dynamic than LA while LA emissions increased but stabalized
+
+#packs <- installed.packages()
+#write.csv(packs, file = "packs.csv")

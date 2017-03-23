@@ -10,3 +10,4 @@ qplot(year, Emissions, data = a, col = type, geom = c("point", "line"),
       xlab = "Year")
 dev.off()
 # Non-road, Nonpoint, and On-Road have decreased while Point has increased
+
